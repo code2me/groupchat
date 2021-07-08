@@ -6,6 +6,9 @@ Realtime chat app with websockets using
 ### Vanilla JS 
 on the frontend with a custom UI
 
+# You can Have a look here [Website] (https://groupchat007.herokuapp.com/) 
+## Deployed on heroku
+
 ## Usage
 ```
 npm install
