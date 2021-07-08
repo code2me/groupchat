@@ -1,7 +1,8 @@
 # GroupChat App
 
-Realtime chat app with websockets using 
+Realtime chat app 
 
+## Built with websockets using 
 - Node.js, 
 - Express and 
 - Socket.io with 
